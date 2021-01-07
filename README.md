@@ -14,3 +14,6 @@ Presupuestos Express es un programa de bases de datos, completamente gratuito, q
 Lista de videos de YouTube, donde se muestra la forma de uso del programa:
 
 Link: https://www.youtube.com/playlist?list=PL2oVD8kfa97RMg0SGapdCCCKPJe5eVCUt
+
+## Descarga el instalador de la última versión
+Link: https://github.com/gorovt/Presupuestos_Express/releases

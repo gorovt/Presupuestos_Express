@@ -1,0 +1,296 @@
+00-DEM	DEMOLICIONES
+00-DEM-010	Demolición de contrapiso sobre terreno natural [m2]	00-DEM
+00-DEM-020	Demolición de piso granítico [m2]	00-DEM
+00-DEM-030	Demolición de techo de chapa [m2]	00-DEM
+00-DEM-040	Retiro de cielorraso existente [m2]	00-DEM
+00-DEM-050	Demolición de mampostería 15 cm [m2]	00-DEM
+00-PRE	TRABAJOS PRELIMINARES
+00-PRE-010	Limpieza del Terreno [m2]	00-PRE
+01-EXC	EXCAVACIÓN DE CIMIENTOS
+01-EXC-010	Excavación de Zanjas [m3]	01-EXC
+01-EXC-020	Excavación de Sótanos (hasta 4 m) [m3]	01-EXC
+01-EXC-030	Excavación de Sótanos [m3]	01-EXC
+01-EXC-040	Excavación de pozos (prof. < 8 m) [m3]	01-EXC
+01-EXC-050	Excavación de pozos (prof < 4 m) [m3]	01-EXC
+01-EXC-060	Excavaciones para bases de columnas [m3]	01-EXC
+02-CIM	CIMENTACIONES
+02-CIM-010	Zapata de hormigón de cascotes [m3]	02-CIM
+02-CIM-020	Zapata de hormigón armado [m3]	02-CIM
+02-CIM-030	Cimiento de ladrillos comunes [m3]	02-CIM
+02-CIM-040	Cimiento de bloques de hormigón [m3]	02-CIM
+02-CIM-100	Zapata de Hormigón Pobre [m3]	02-CIM
+03-MAM	MAMPOSTERÍAS
+03-MAM-010	Mampostería de ladrillos comunes para submuración [m3]	03-MAM
+03-MAM-020	Mampostería de ladrillos comunes en elevación (h < 10m) [m3]	03-MAM
+03-MAM-030	Mampostería de ladrillos comunes en elevación (h > 10m) [m3]	03-MAM
+
+03-MAM-040	Mampostería de ladrillos comunes en elev para medianera [m3]	03-MAM
+03-MAM-050	Mampostería de ladrillos a la vista (h < 10m) [m3]	03-MAM
+03-MAM-060	Mampostería de ladrillos comunes de canto (panderete) [m2]	03-MAM
+03-MAM-070	Mampostería de bloques cerámicos portantes 18x19x33 cm [m2]	03-MAM
+03-MAM-075	Mampostería de bloques cerámicos huecos 12x19x33 cm [m2]	03-MAM
+03-MAM-080	Mampostería de bloques cerámicos huecos 8x18x33 cm [m2]	03-MAM
+03-MAM-090	Mampostería de bloques de hormigón 19x19x39 cm [m2]	03-MAM
+03-MAM-100	Mampostería de bloques de hormigón 9x19x39 cm [m2]	03-MAM
+03-MAM-120	Mampostería de cimientos de 0,30 m [m2]	03-MAM
+03-MAM-121	Mampostería de cimientos de 0,45 m [m2]	03-MAM
+03-MAM-125	Mampostería de cimientos de 0,20 m [m2]	03-MAM
+03-MAM-130	Mampostería de cimientos de 0,15 m [m2]	03-MAM
+03-MAM-140	Mampostería de ladrillos comunes de 0,30 m [m2]	03-MAM
+03-MAM-150	Mampostería de ladrillos comunes de 0,20 m [m2]	03-MAM
+03-MAM-160	Mampostería de ladrillos comunes de 0,15 m [m2]	03-MAM
+03-MAM-170	Mampostería de ladrillos comunes de 0,10 m [m2]	03-MAM
+03-MAM-180	Mampostería de ladrillos vistos 0,15 m [m2]	03-MAM
+03-MAM-190	Mampostería de ladrillos vistos 0,30 m [m2]	03-MAM
+03-MAM-200	Frente vidriado de edificio [m2]	03-MAM
+03-MAM-210	Lateral Naves Industriales - Chapas acanaladas [m2]	03-MAM
+04-EST	ESTRUCTURAS DE HORMIGÓN ARMADO
+04-EST-010	Dinteles de hormigón armado [m3]	04-EST
+04-EST-020	Hormigón, puesto sobre encofrado [m3]	04-EST
+
+04-EST-050	Losas de viguetas pretensadas (Bov h=9 cm) [m2]	04-EST
+04-EST-060	Tabique de Hormigón Armado NO portante (e=7 cm) [m2]	04-EST
+04-EST-070	Tabique de Hormigón Elaborado portante (e=15 cm) - H17 [m2]	04-EST
+04-EST-075	Tabique de Hormigón Elaborado portante (e=12 cm) - H17 [m2]	04-EST
+04-EST-080	Bases aisladas de hormigón armado [m3]	04-EST
+04-EST-081	Bases aisladas de Hº elaborado H-17 [m3]	04-EST
+04-EST-090	Bases unificadas de hormigón armado [m3]	04-EST
+04-EST-100	Plateas de hormigón armado [m3]	04-EST
+04-EST-105	Plateas de Hº elaborado H-17 [m3]	04-EST
+04-EST-110	Vigas de hormigón armado [m3]	04-EST
+04-EST-111	Vigas de Hº elaborado H-17 [m3]	04-EST
+04-EST-120	Columnas de hormigón armado [m3]	04-EST
+04-EST-121	Columnas de Hº elaborado H-17 [m3]	04-EST
+04-EST-130	Losas de hormigón armado [m3]	04-EST
+04-EST-131	Losas de Hº elaborado H-17 [m3]	04-EST
+04-EST-132	Losa nerv. aliv Hº elab H-17 (e: 5 cm - Nervio 15 cm) [m2]	04-EST
+04-EST-140	Encadenado de cimientos de 12x12 cm [ml]	04-EST
+04-EST-150	Encadenados de mamposterías de 12x12 cm [ml]	04-EST
+04-EST-160	Dinteles sobre aberturas [ml]	04-EST
+04-EST-170	Vigueta pretensada de hº liviano - 1,00 a 3,20 mts [ml]	04-EST
+04-EST-180	Escaleras - Losa de hormigón armado [m3]	04-EST
+04-EST-181	Escaleras - Losa de Hº elaborado H-17 [m3]	04-EST
+04-EST-190	Cabezal y Pilotes de Hº elaborado H-17 [m3]	04-EST
+
+04-EST-200	Viga de unión cabezales pilotes de Hº elaborado H-17 [m3]	04-EST
+04-EST-210	Barra acero ø 4,2 mm [ml]	04-EST
+04-EST-212	Barra acero ø 6 mm [ml]	04-EST
+04-EST-214	Barra acero ø 8 mm [ml]	04-EST
+04-EST-216	Barra acero ø 10 mm [ml]	04-EST
+04-EST-218	Barra acero ø 12 mm [ml]	04-EST
+04-EST-220	Barra acero ø 16 mm [ml]	04-EST
+04-EST-222	Barra acero ø 20 mm [ml]	04-EST
+04-EST-224	Barra acero ø 25 mm [ml]	04-EST
+04-EST-226	Barra acero ø 32 mm [ml]	04-EST
+05-CAP	CAPAS AISLADORAS
+05-CAP-010	Capa aisladora horizontal de concreto [m2]	05-CAP
+05-CAP-020	Capa aisladora vertical de concreto [m2]	05-CAP
+06-REV	REVOQUES
+06-REV-010	Azotado hidrófugo exterior (e= 5 mm) [m2]	06-REV
+06-REV-020	Revoque grueso exterior fratasado [m2]	06-REV
+06-REV-030	Revoque grueso interior [m2]	06-REV
+06-REV-040	Material de frente plástico [m2]	06-REV
+06-REV-050	Revoque fino interior [m2]	06-REV
+06-REV-070	Material de frente para molduras - Perfil sencillo [m2]	06-REV
+06-REV-080	Toma de juntas de ladrillos aparentes [m2]	06-REV
+06-REV-090	Andamios metálicos pre-armados (sistema universal) [m2]	06-REV
+06-REV-100	Andamios de madera (simples) [m2]	06-REV
+06-REV-110	Andamios de madera (reforzados) [m2]	06-REV
+
+06-REV-120	Enlucido de yeso exterior [m2]	06-REV
+06-REV-130	Enlucido de yeso interior [m2]	06-REV
+06-REV-140	Mortero impermeable [m2]	06-REV
+07-CON	CONTRAPISOS
+07-CON-010	Contrapiso sobre terreno natural (e= 10 cm) [m2]	07-CON
+07-CON-011	Contrapiso sobre terreno natural (e= 8 cm) [m2]	07-CON
+07-CON-012	Contrapiso sobre terreno natural (e= 15 cm) [m2]	07-CON
+07-CON-014	Contrapiso sobre terreno natural (e= 18 cm) [m2]	07-CON
+07-CON-020	Contrapiso sobre losa (e= 8 cm) [m2]	07-CON
+07-CON-030	Contrapiso sobre losas bandeja, en baños (e= 18 cm) [m2]	07-CON
+07-CON-040	Carpeta para clavar parquet (e= 25 mm) [m2]	07-CON
+07-CON-050	Contrapiso completo para parquet, sobre tierra [m2]	07-CON
+08-PIS	PISOS y CARPETAS
+08-PIS-010	Carpeta de cemento alisado para pegar baldosas vinílica [m2]	08-PIS
+08-PIS-020	Piso de cemento alisado o cilindrado [m2]	08-PIS
+08-PIS-030	Colocación de baldosas y piezas similares [m2]	08-PIS
+08-PIS-040	Piso de ladrillos comunes, de plano [m2]	08-PIS
+08-PIS-060	Piso de parquet, sobre carpeta [m2]	08-PIS
+08-PIS-070	Piso flotante de madera para interiores [m2]	08-PIS
+08-PIS-080	Piso de madera tipo deck para exteriores [m2]	08-PIS
+08-PIS-090	Piso de madera entarugado [m2]	08-PIS
+08-PIS-100	Losa hormigón armado en estacionamiento vehíc (e:12cm) [m2]	08-PIS
+09-CIE	YESERÍA y CIELORRASOS
+09-CIE-010	Enlucido de yeso [m2]	09-CIE
+
+09-CIE-020	Cielorraso aplicado [m2]	09-CIE
+09-CIE-030	Armazón cielorraso suspendido de losa de hormigón [m2]	09-CIE
+09-CIE-040	Armazón cielorraso independiente con est. de madera [m2]	09-CIE
+09-CIE-050	Armazón cielorraso independiente con est. Metálica [m2]	09-CIE
+09-CIE-060	Molduras de yeso, de diseño sencillo [ml]	09-CIE
+09-CIE-070	Molduras de yeso, de diseño complejo [ml]	09-CIE
+09-CIE-080	Cielorraso desmontable Durlock - 60x120 cm [m2]	09-CIE
+09-CIE-090	Cielorraso machimbre de madera - Pino Elliotis - 3/4" [m2]	09-CIE
+09-CIE-100	Cielorraso suspendido de placas de yeso [m2]	09-CIE
+10-CUB	CUBIERTAS
+10-CUB-010	Membrana asfáltica sobre cubierta plana [m2]	10-CUB
+10-CUB-020	Cubierta sobre losa de hormigón - Hº Pobre de pendiente [m2]	10-CUB
+10-CUB-030	Colocación de membrana asfáltica tipo lamiplast [m2]	10-CUB
+10-CUB-040	Cubierta de Tejas francesas - Linea Natural [m2]	10-CUB
+10-CUB-050	Cub Chapa acanalada, c/machimbre Pino, Listones y clav. [m2]	10-CUB
+10-CUB-060	Cub Chapa acanalada, clavadores [m2]	10-CUB
+10-CUB-070	Colocación de chapas acanaladas [m2]	10-CUB
+10-CUB-080	Cubierta de Tejas Classic - Linea Natural [m2]	10-CUB
+10-CUB-090	Cubierta de Tejas Romanas - Linea Natural [m2]	10-CUB
+10-CUB-100	Cumbrera de teja romana [ml]	10-CUB
+10-CUB-110	Cumbrera p/ chapa acanalada [ml]	10-CUB
+10-CUB-150	Canaleta chapa galv 1/2 caña 15 cm [ml]	10-CUB
+10-CUB-160	Canaleta chapa galv rectangular 7 x 20 x 10 cm [ml]	10-CUB
+10-CUB-170	Cenefa chapa 15 x 15 cm [ml]	10-CUB
+
+10-CUB-200	Tirante Pino Paraná - 2" x 4" [ml]	10-CUB
+10-CUB-210	Tirante Pino Paraná - 2" x 6" [ml]	10-CUB
+10-CUB-220	Tirante Pino Paraná - 3" x 6" [ml]	10-CUB
+10-CUB-230	Tirante Pino Paraná - 3" x 8" [ml]	10-CUB
+10-CUB-240	Tirante Pino Paraná - 3" x 9" [ml]	10-CUB
+10-CUB-250	Tirante Pino Paraná - 3" x 10" [ml]	10-CUB
+11-ZOC	ESCALONES, UMBRALES Y ZÓCALOS
+11-ZOC-010	Umbral de cemento alisado (esp 3 cm) [m2]	11-ZOC
+11-ZOC-015	Escalones de cemento alisado (esp 3 cm) [m2]	11-ZOC
+11-ZOC-020	Zócalo de madera de Pino [ml]	11-ZOC
+11-ZOC-030	Zócalo de madera de Cedro [ml]	11-ZOC
+11-ZOC-040	Zocalo de mosaicos [ml]	11-ZOC
+11-ZOC-050	Zócalo de cemento alisado [ml]	11-ZOC
+11-ZOC-060	Revestimiento monolitoco granítico escalera [m2]	11-ZOC
+12-REV	REVESTIMIENTOS
+12-REV-010	Azulejos - Cerámico Terragona 15x15 cm [m2]	12-REV
+12-REV-020	Revestimiento piedra [m2]	12-REV
+13-MOV	MOVIMIENTOS DE SUELOS
+13 - 010	Terraplenamientos [m3]	13-MOV
+13 - 020	Desmontes [m3]	13-MOV
+14-VID	VIDRIOS, CRISTALES Y ESPEJOS
+31-VID-0010	Cristales planos transparentes incoloros - 3 mm [m2]	14-VID
+15-SAN	INST. CLOACAL Y PLUVIAL
+15-SAN-010	Inodoro - Linea Andina [Unid]	15-SAN
+
+15-SAN-020	Bidet - Línea Andina [Unid]	15-SAN
+15-SAN-030	Bañera - 140x70x40 cm - Acero porcelanizado [Unid]	15-SAN
+15-SAN-040	Bañera con hidromasaje Adriatica - 160x83x49 cm [Unid]	15-SAN
+15-SAN-050	Plato para ducha - 80x80x14 cm - Acero porcelanizado [Unid]	15-SAN
+15-SAN-060	Lavatorio - Línea Andina [Unid]	15-SAN
+15-SAN-070	Bacha oval acero inoxidable 36 brillante [Unid]	15-SAN
+15-SAN-080	Mingitorio Oval [Unid]	15-SAN
+15-SAN-090	Mingitorio mural corto [Unid]	15-SAN
+15-SAN-100	Pileta de cocina - 63x37x15 cm - Bacha doble [Unid]	15-SAN
+15-SAN-110	Pileta de cocina - 34x24x15 cm - Bacha simple [Unid]	15-SAN
+15-SAN-120	Pileta de lavar - 48,5x33x24,7 cm - PLC con fregadero [Unid]	15-SAN
+15-SAN-150	Ducha [Unid]	15-SAN
+15-SAN-300	Tanque agua polietileno tricapa (500 Lts) [Unid]	15-SAN
+16-MET	ESTRUCTURA METÁLICA
+16-MET-001	Perfil ángulo - 1 1/2" x 3/16" (38,1 x 4,7 mm) [Kg]	16-MET
+16-MET-002	Perfil ángulo - 1 1/4" x 3/16" (31,7 x 4,7 mm) [Kg]	16-MET
+16-MET-010	Perfil IPN 80 [Kg]	16-MET
+16-MET-011	Perfil IPN 100 [Kg]	16-MET
+16-MET-012	Perfil IPN 120 [Kg]	16-MET
+16-MET-014	Perfil IPN 160 [Kg]	16-MET
+16-MET-015	Perfil IPN 180 [Kg]	16-MET
+16-MET-016	Perfil IPN 200 [Kg]	16-MET
+16-MET-018	Perfil IPN 240 [Kg]	16-MET
+16-MET-019	Perfil IPN 260 [Kg]	16-MET
+
+16-MET-021	Perfil IPN 300 [Kg]	16-MET
+16-MET-030	Perfil UPN 80 [Kg]	16-MET
+16-MET-031	Perfil UPN 100 [Kg]	16-MET
+16-MET-032	Perfil UPN 120 [Kg]	16-MET
+16-MET-034	Perfil UPN 160 [Kg]	16-MET
+16-MET-034b	2 Perfiles UPN 160 [Kg]	16-MET
+16-MET-036	Perfil UPN 200 [Kg]	16-MET
+16-MET-038	Perfil UPN 240 [Kg]	16-MET
+16-MET-041	Perfil UPN 300 [Kg]	16-MET
+16-MET-100	Caño estructural cuadrado - 15 x 15 x 1,20 mm [Kg]	16-MET
+16-MET-110	Caño estructural cuadrado - 20 x 20 x 1,20 mm [Kg]	16-MET
+16-MET-120	Caño estructural cuadrado - 25 x 25 x 1,20 mm [Kg]	16-MET
+16-MET-130	Caño estructural cuadrado - 30 x 30 x 1,20 mm [Kg]	16-MET
+16-MET-140	Caño estructural cuadrado - 50 x 50 x 1,20 mm [Kg]	16-MET
+16-MET-200	Caño estructural redondo - ø 5/8" - 1,20 mm [Kg]	16-MET
+16-MET-210	Caño estructural redondo - ø 3/4" - 1,20 mm [Kg]	16-MET
+16-MET-220	Caño estructural redondo - ø 1" - 1,20 mm [Kg]	16-MET
+16-MET-310	Caño estructural rectangular - 50 x 100 x 1,20 mm [Kg]	16-MET
+17-MAD	ESTRUCTURA DE MADERA
+17-MAD-010	Tirante de madera - Pino paraná - 3" x 6" [ml]	17-MAD
+17-MAD-020	Tirante de madera - Pino Paraná - 3" x 8" [ml]	17-MAD
+17-MAD-030	Tirante de madera - Pino Paraná - 2" x 4" [ml]	17-MAD
+17-MAD-040	Tirante de madera - Pino Paraná 3" x 9" [ml]	17-MAD
+
+17-MAD-100	Columna de madera - 20 x 20 cm [ml]	17-MAD
+18-ESC	ESCALERAS Y BARANDAS
+18-ESC-010	Baranda con barrotes cuadrados - Sep 15 cm [ml]	18-ESC
+18-ESC-020	Baranda con barrotes circulares - Sep 15 cm [ml]	18-ESC
+18-ESC-030	Baranda con cables horizontales - 8 cables ø 5 mm [ml]	18-ESC
+18-ESC-040	Baranda con montantes horizontales - 3 cables ø 20 mm [ml]	18-ESC
+18-ESC-050	Baranda c/paneles centrales vid. y montantes circulares [ml]	18-ESC
+18-ESC-060	Baranda c/ 3 paneles horiz vidrio y montantes cuadrado [ml]	18-ESC
+18-ESC-070	Baranda Panel de vidrio completo [ml]	18-ESC
+19-CMA	CARPINTERÍA DE MADERA
+19-CMA-1020	Puerta entrada madera 80x200 cm [Unid]	19-CMA
+19-CMA-1030	Puerta entrada madera 90x200 cm [Unid]	19-CMA
+19-CMA-1040	Puerta entrada madera 100x200 cm [Unid]	19-CMA
+19-CMA-1100	Puerta entrada doble madera 160x200 cm [Unid]	19-CMA
+19-CMA-1200	Portón exterior 240x200 cm [Unid]	19-CMA
+20-CME	CARPINTERÍA METÁLICA
+20-CME-1010	Puerta aluminio 80x200 cm [Unid]	20-CME
+20-CME-1100	Puerta aluminio corrediza 150x200 cm [Unid]	20-CME
+20-CME-1150	Puerta aluminio corrediza 200x200 cm [Unid]	20-CME
+20-CME-2010	Ventana aluminio corrediza 100x110 cm [Unid]	20-CME
+20-CME-2050	Ventana aluminio corrediza 150x110 cm [Unid]	20-CME
+20-CME-2060	Ventana aluminio corrediza 150x150 cm [Unid]	20-CME
+20-CME-2120	Ventana aluminio corrediza 200x150 cm [Unid]	20-CME
+20-CME-3050	Ventana aluminio 1 paño fijo 100x110 cm [Unid]	20-CME
+
+20-CME-3100	Ventana aluminio 1 paño fijo 150x110 cm [Unid]	20-CME
+22-COM	CARPINTERÍA COMBINADA
+22-COM-1020	Puerta Placa cedro 70x200 cm [Unid]	22-COM
+22-COM-1030	Puerta Placa cedro 80x200 cm [Unid]	22-COM
+22-COM-1040	Puerta placa cedro 90x200 cm [Unid]	22-COM
+22-COM-1100	Puerta placa corrediza cedro 70x200 cm [Unid]	22-COM
+23-ELE	INSTALACIÓN ELÉCTRICA
+23-ELE-0100	Subcont electricidad por boca - Mat y MO [Unid]	23-ELE
+23-ELE-0105	Subcont electricidad por boca en edificio - Mat y MO [Unid]	23-ELE
+23-ELE-0110	Subcont electricidad por boca - Colocación artefactos [Unid]	23-ELE
+23-ELE-0120	Subcont electricidad por boca - Mano de Obra [Unid]	23-ELE
+23-ELE-0130	Subcont telefonía por boca - Mat y Mano de Obra [Unid]	23-ELE
+23-ELE-0140	Subcont telefonía por boca en edificio - Mat y Mano de Obra [Unid]	23-ELE
+23-ELE-0150	Subcont televisión por boca - Mat y Mano de Obra [Unid]	23-ELE
+23-ELE-0160	Subcont televisión por boca en edificio - Mat y Mano de Obra [Unid]	23-ELE
+24-GAS	INSTALACIÓN DE GAS
+25-CAL	CALEFACCIÓN Y REFRIGERACIÓN
+25-CAL-010	Split Extrachato - 4500 Frigorias - Frío/Calor [Unid]	25-CAL
+25-CAL-050	Caldera Mural Calefacción - 20000 Kcal [Unid]	25-CAL
+25-CAL-090	Calefactor Tiro Balanceado - 2000 Kcal [Unid]	25-CAL
+25-CAL-100	Calefactor Tiro Banaceado - 5000 Kcal [Unid]	25-CAL
+25-CAL-120	Termotanque 300 Lts/h - Capacidad 40 Lts [Unid]	25-CAL
+26-PIN	PINTURA
+26-PIN-110	Pintura de muros al látex sobre revoque interior [m2]	26-PIN
+26-PIN-120	Pintura de muros al látex sobre revoque exterior [m2]	26-PIN
+
+26-PIN-210	Pintura de carpintería metálica, esmalte sintético [m2]	26-PIN
+26-PIN-220	Pintura de carpintería de madera, esmalte sintético [m2]	26-PIN
+26-PIN-310	Pintura al látex sobre cielorrasos [m2]	26-PIN
+27-AMO	AMOBLAMIENTOS
+27-AMB-010	Mesada ciega de mármol Onix [m2]	27-AMO
+27-AMB-200	Mueble baño con mesada (60x50) [Unid]	27-AMO
+27-AMB-240	Mueble baño con mesada (100x50) [Unid]	27-AMO
+27-AMB-300	Mesada de baño chica [Unid]	27-AMO
+27-AMB-310	Armario de baño sin mesada - 120 cm - 4 cajones [Unid]	27-AMO
+27-AMB-320	Pie de mueble de baño [Unid]	27-AMO
+27-AMB-400	Placard 8 hojas abrir - 340 x 195 x 60 cm madera [Unid]	27-AMO
+27-AMB-500	Armario ropa - 50x55x200 cm [Unid]	27-AMO
+27-AMB-610	Muro cierre muebles bajo mesada - mamp panderete [Unid]	27-AMO
+27-AMB-620	Mueble bajo mesada - Esquina [Unid]	27-AMO
+27-AMB-630	Mueble bajo mesada - 1 puerta - 30 cm [Unid]	27-AMO
+27-AMB-635	Mueble bajo mesada - cajoneras - 30 cm [Unid]	27-AMO
+27-AMB-640	Mueble bajo mesada - 1 puerta - 40 cm [Unid]	27-AMO
+27-AMB-650	Mueble bajo mesada - 1 puerta - 50 cm [Unid]	27-AMO
+27-AMB-655	Mueble bajo mesada - cajoneras - 50 cm [Unid]	27-AMO
+27-AMB-680	Mueble bajo mesada - 2 puertas - 80 cm [Unid]	27-AMO
+27-AMB-700	Mueble bajo mesada - 2 puertas - 100 cm [Unid]	27-AMO
+27-AMB-720	Mueble bajo mesada - 2 puertas - 150 cm [Unid]	27-AMO
